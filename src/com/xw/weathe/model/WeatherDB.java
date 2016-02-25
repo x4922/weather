@@ -1,4 +1,4 @@
-package model;
+package com.xw.weathe.model;
 
 import java.util.ArrayList;
 import java.util.Currency;
@@ -10,7 +10,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import db.WeatherOpenHelper;
+import com.xw.weathe.db.WeatherOpenHelper;
 
 public class WeatherDB {
 	//数据库名称

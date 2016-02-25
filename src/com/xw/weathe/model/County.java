@@ -1,4 +1,4 @@
-package model;
+package com.xw.weathe.model;
 
 public class County {
 	private int id;
